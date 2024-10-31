@@ -5,8 +5,8 @@ The git repo is private https://github.com/MSIH/platform-for-good
 
 ## to request access
 1. send an email to ithappens@msih.org and include your github username
-2. sign volunteer agreement
-3. receive invite to rep
+2. sign volunteer agreement, which will be emailed to you
+3. receive invite to repo
 
 ## Purpose - moderize the application
 - update frameworks
